@@ -4,6 +4,7 @@ public class Prog2
     {
         System.out.println("Hi");
         coolFeature();
+        coolFeature();
     }
 
     public static void coolFeature()
