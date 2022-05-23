@@ -1,5 +1,5 @@
 *Icecream Dictionary
-** Icecream Flavors
+**Icecream Flavors
 (list your icecream flavors here) 
 -Vanilla
 -Strawberry
