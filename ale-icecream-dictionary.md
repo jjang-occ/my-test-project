@@ -3,7 +3,7 @@
 (list your icecream flavors here) 
 -Vanilla
 -Strawberry
--Chocholate
+-Chocolate
 -Mango
 -Matcha
 -Banana
